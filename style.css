@@ -1,0 +1,54 @@
+body {
+    background-color: #f0f8ff;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+h1 {
+    color: #336699;
+    text-align: center;
+}
+p {
+    font-size: 18px;
+    text-align: justify;
+}
+ul {
+    line-height: 2;
+}
+img.hobby-img {
+    width: 300px;
+    border-radius: 15px;
+    display: block;
+    margin: 10px auto;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+table, th, td {
+    border: 1px solid #888;
+}
+td {
+    padding: 10px;
+    text-align: center;
+}
+a {
+    color: #336699;
+    text-decoration: none;
+}
+a:hover {
+    color: #ff6600;
+}
+#mensagem {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #006400;
+    text-align: center;
+}
+button {
+    display: block;
+    margin: 20px auto 0;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
